@@ -1,7 +1,7 @@
 # ipcalc.py
 IP address CLI calculator for IPv4 and IPv6 in Python
 
-Usage: ipcalc [options] <<ADDRESS>>[/MASK] [MASK]
+Usage: `ipcalc [options] <ADDRESS>[/MASK] [MASK]`
 
 Calculate network, broadcast, Cisco wildcard, host range and address
 count for IPv4 and IPv6.
